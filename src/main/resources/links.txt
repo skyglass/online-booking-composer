@@ -1,0 +1,5 @@
+https://codefresh.io/docs/docs/yaml-examples/examples/spring-boot-kafka-zookeeper/
+
+https://github.com/codefreshdemo/example-springboot-kafka
+
+https://www.confluent.io/blog/apache-kafka-spring-boot-application/

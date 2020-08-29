@@ -1,12 +1,12 @@
 package com.manning.salonapp.mocks;
 
 
-import com.manning.salonapp.salonservice.SalonServiceDetail;
-import com.manning.salonapp.salonservice.SalonServiceDetailRepository;
-import com.manning.salonapp.slot.Slot;
-import com.manning.salonapp.slot.SlotRepository;
-import com.manning.salonapp.slot.SlotStatus;
 import lombok.extern.slf4j.Slf4j;
+import skyglass.salonapp.salonservice.SalonServiceDetail;
+import skyglass.salonapp.salonservice.SalonServiceDetailRepository;
+import skyglass.salonapp.slot.Slot;
+import skyglass.salonapp.slot.SlotRepository;
+import skyglass.salonapp.slot.SlotStatus;
 
 import javax.transaction.Transactional;
 import java.time.LocalDateTime;

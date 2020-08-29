@@ -1,9 +1,14 @@
 package com.manning.salonapp.slot;
 
 import com.manning.salonapp.mocks.TestDbInitializationService;
-import com.manning.salonapp.salonservice.SalonServiceDetail;
-import com.manning.salonapp.salonservice.SalonServiceDetailRepository;
+
 import lombok.extern.slf4j.Slf4j;
+import skyglass.salonapp.salonservice.SalonServiceDetail;
+import skyglass.salonapp.salonservice.SalonServiceDetailRepository;
+import skyglass.salonapp.slot.Slot;
+import skyglass.salonapp.slot.SlotRepository;
+import skyglass.salonapp.slot.SlotStatus;
+
 import org.hamcrest.core.IsNot;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

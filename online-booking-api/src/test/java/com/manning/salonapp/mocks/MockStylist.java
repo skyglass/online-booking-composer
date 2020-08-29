@@ -1,11 +1,11 @@
 package com.manning.salonapp.mocks;
 
 
-import com.manning.salonapp.salonservice.SalonServiceDetail;
-
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
+
+import skyglass.salonapp.salonservice.SalonServiceDetail;
 
 
 public class MockStylist {
